@@ -37,7 +37,6 @@ export default function App() {
         <Card discord="Cryptopapi#4136"  link="https://media.discordapp.net/attachments/968113253282639895/968463070244515840/josh1.jpg?width=659&height=676" />
         <Card discord="xBlasti#0398"  link="https://media.discordapp.net/attachments/968113253282639895/968481537278505030/20220424_161749.png?width=676&height=676" />
         <Card discord="optimist#9103"  link="https://media.discordapp.net/attachments/968113253282639895/968510799482060851/Deskheads.jpg?width=676&height=676" />
-        <Card discord="INSHAL#9945"  link="https://media.discordapp.net/attachments/968113253282639895/968868153482428516/Teaser.jpg?width=766&height=676" />
         <Card discord="STAY HYDRATED EVERYONE!#5231"  link="https://media.discordapp.net/attachments/968113253282639895/969227468491853894/unknown.png?width=665&height=676" />
         <Card discord="xXx-SilverFlex-xXx#0291"  link="https://media.discordapp.net/attachments/968113253282639895/969235977371525210/SILVERFLEX.png?width=673&height=676" />
         <Card discord="Masashi Kio#8991"  link="https://media.discordapp.net/attachments/968113253282639895/969250885630849164/unknown.png?width=779&height=676" />
