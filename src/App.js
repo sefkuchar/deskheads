@@ -11,7 +11,7 @@ export default function App() {
   return (
     
     <div className="pb-10">
-      <div  className="bg-[url('https://cdn.discordapp.com/banners/951840245073182731/9c84bd4cfbab220c27701b6d9821c520.webp?size=4096')] h-full w-full fixed"></div>
+      <div  className="bg-[url('https://i.imgur.com/l8zW5iR.jpg')] h-full w-full fixed"></div>
       <div className="flex justify-center w-screen py-10 text-white ml-auto mr-auto align-middle flex-wrap">
         <div className="flex flex-col sm:flex-row z-20 font-sans font-serif text-5xl font-black">
           <span>DESKHEADS FAN ART </span>
